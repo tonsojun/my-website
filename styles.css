@@ -1,0 +1,39 @@
+h1 {
+    color: brown;
+    margin: 40px;
+    margin-top: 100px;
+}
+
+button {
+    color: brown;
+    background-color: lightgrey;
+    border: 2px solid brown;
+    border-radius: 5px;
+    font-size: 24px;
+    padding: 15px;
+    margin: 50px;
+}
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: dodgerblue;
+    padding: 10px;
+}
+
+p {
+    text-align: center;
+    font-size: 24px;
+}
+
+body {
+    text-align: center;
+    background-image: url("background-image.webp");
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 24px;
+}
+
+.blue-letters {
+    color: blue;
+}
